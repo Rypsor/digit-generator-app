@@ -4,7 +4,7 @@ import streamlit as st
 import torch
 import torch.nn as nn
 import numpy as np
-import torchvision.transforms.functional as F
+
 
 # --- WEB APP CONFIGURATION ---
 # THIS MUST BE THE FIRST STREAMLIT COMMAND in your script.
